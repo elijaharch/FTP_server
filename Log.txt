@@ -1,0 +1,15 @@
+Connection Info: <socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 6666), raddr=('127.0.0.1', 52281)>
+Actual Connection: ('127.0.0.1', 52281)
+Command From Client: ls
+Server Response: test
+
+Connection Info: <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 6666), raddr=('127.0.0.1', 52282)>
+Actual Connection: ('127.0.0.1', 52282)
+Command From Client: pwd
+Server Response: docs
+
+Connection Info: <socket.socket fd=412, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 6666), raddr=('127.0.0.1', 52283)>
+Actual Connection: ('127.0.0.1', 52283)
+Command From Client: exit
+Server Response: exit
+
